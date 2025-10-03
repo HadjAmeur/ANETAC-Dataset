@@ -2,7 +2,10 @@
 
 ## Description
 
-This is a dataset containing 79,924 named entites in Arabic and their transliteration in English. The dataset is split into train, test, and development sets:
+This is a dataset containing 79,924 named entites in Arabic and their transliteration in English. The dataset was published as part of the paper "Arabic Machine Transliteration using an Attention-based Encoder-decoder Model" Paper.
+[Arabic Machine Transliteration using an Attention-based Encoder-decoder Model](https://www.sciencedirect.com/science/article/pii/S1877050917321774)
+
+The dataset is split into train, test, and development sets:
 
 <div align="center">
 <img src="dev_train_test.JPG" alt="Arabic-English named entites transliteration Dataset" width="500">
