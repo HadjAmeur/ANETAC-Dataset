@@ -1,4 +1,5 @@
-# Arabic-English-Transliteration-Dataset
+# ANETAC: Arabic Named Entity Transliteration and Classification Dataset
+
 
 ## Description
 
@@ -35,19 +36,11 @@ If you want to use the dataset please cite the following arXiv paper:
 
 
 ```
-@article{HADJAMEUR2017287,
-title = {Arabic Machine Transliteration using an Attention-based Encoder-decoder Model},
-journal = {Procedia Computer Science},
-volume = {117},
-pages = {287-297},
-year = {2017},
-note = {Arabic Computational Linguistics},
-issn = {1877-0509},
-doi = {https://doi.org/10.1016/j.procs.2017.10.120},
-url = {https://www.sciencedirect.com/science/article/pii/S1877050917321774},
-author = {Mohamed Seghir {Hadj Ameur} and Farid Meziane and Ahmed Guessoum},
-keywords = {Natural Language Processing, Arabic Language, Arabic Transliteration, Deep Learning, Sequence-to-sequence Models, Encoder-decoder Architecture, Recurrent Neural Networks},
-abstract = {Transliteration is the process of converting words from a given source language alphabet to a target language alphabet, in a way that best preserves the phonetic and orthographic aspects of the transliterated words. Even though an important effort has been made towards improving this process for many languages such as English, French and Chinese, little research work has been accomplished with regard to the Arabic language. In this work, an attention-based encoder-decoder system is proposed for the task of Machine Transliteration between the Arabic and English languages. Our experiments proved the efficiency of our proposal approach in comparison to some previous research developed in this area.}
+@article{ameur2019anetac,
+  title={Anetac: Arabic named entity transliteration and classification dataset},
+  author={Ameur, Mohamed Seghir Hadj and Meziane, Farid and Guessoum, Ahmed},
+  journal={arXiv preprint arXiv:1907.03110},
+  year={2019}
 }
 ```
 
