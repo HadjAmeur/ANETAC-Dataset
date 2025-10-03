@@ -13,7 +13,7 @@ This is a dataset containing 79,924 named entites in Arabic and their transliter
 Examples of the instances present in the dataset are provided in the below Table: 
 
 <div align="center">
-    <img src="examples.JPG" alt="Arabic-English named entites transliteration examples" width="300">
+    <img src="examples.JPG" alt="Arabic-English named entites transliteration examples" width="400">
 </div>
 
 
@@ -23,7 +23,7 @@ Examples of the instances present in the dataset are provided in the below Table
 The statistics the dataset are provided in the below Table: 
 
 <div align="center">
-<img src="stats.JPG" alt="Arabic-English named entites transliteration statistics" width="300">
+<img src="stats.JPG" alt="Arabic-English named entites transliteration statistics" width="200">
 </div>
 
 
